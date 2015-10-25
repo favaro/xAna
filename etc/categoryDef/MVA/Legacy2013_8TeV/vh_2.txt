@@ -1,0 +1,5 @@
+4
+diphotonMva	    min   0.0
+corMET              min   70.0
+deltaPhiMETGG       min   2.1
+deltaPhiLeadJetMET  max   2.7

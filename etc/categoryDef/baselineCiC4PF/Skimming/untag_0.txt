@@ -1,0 +1,4 @@
+2
+minphotonR9	min	-1
+maxphotonEta	max	2.75
+

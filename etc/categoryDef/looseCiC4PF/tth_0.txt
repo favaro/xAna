@@ -1,0 +1,6 @@
+3
+nlep            min     1
+njetsTTH	min	2
+nBjets   	min	1
+
+

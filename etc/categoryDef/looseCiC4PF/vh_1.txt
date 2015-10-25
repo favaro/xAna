@@ -1,0 +1,7 @@
+6
+nlep                 min     1
+njetsVH	             max     2
+corMET               max   45.0
+deltaR_leptonToLead  min    1.0
+deltaR_leptonToTrail min    1.0
+mEGMinusMZ           min    10.0

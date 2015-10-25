@@ -1,0 +1,104 @@
+GFORTRAN module version '0' created from mod_CrossSection.F90 on Mon May 19 18:06:35 2014
+MD5:2e77b59d50b5cc38166541c560c0837d -- If you edit this, you'll get what you deserve.
+
+(() () () ()
+() () () () () () () () () () () () () () () () () () () () () () ())
+
+()
+
+()
+
+()
+
+()
+
+(2 'evalunweighted' 'modcrosssection' 'evalunweighted' 1 ((PROCEDURE
+UNKNOWN-INTENT MODULE-PROC DECL UNKNOWN FUNCTION) (REAL 8 0 0 REAL ()) 3
+0 (4 5 6) () 2 () () () 0 0)
+7 'evalunweighted_beta' 'modcrosssection' 'evalunweighted_beta' 1 ((
+PROCEDURE UNKNOWN-INTENT MODULE-PROC DECL UNKNOWN FUNCTION) (REAL 8 0 0
+REAL ()) 8 0 (9) () 7 () () () 0 0)
+10 'evalunweighted_hjj' 'modcrosssection' 'evalunweighted_hjj' 1 ((
+PROCEDURE UNKNOWN-INTENT MODULE-PROC DECL UNKNOWN FUNCTION
+ALWAYS_EXPLICIT) (REAL 8 0 0 REAL ()) 11 0 (12 13 14) () 10 () () () 0 0)
+15 'evalunweighted_withoutproduction' 'modcrosssection'
+'evalunweighted_withoutproduction' 1 ((PROCEDURE UNKNOWN-INTENT
+MODULE-PROC DECL UNKNOWN FUNCTION) (REAL 8 0 0 REAL ()) 16 0 (17 18 19
+20 21 22 23) () 15 () () () 0 0)
+24 'evalweighted' 'modcrosssection' 'evalweighted' 1 ((PROCEDURE
+UNKNOWN-INTENT MODULE-PROC DECL UNKNOWN FUNCTION) (REAL 8 0 0 REAL ())
+25 0 (26 27) () 24 () () () 0 0)
+28 'evalweighted_hjj' 'modcrosssection' 'evalweighted_hjj' 1 ((
+PROCEDURE UNKNOWN-INTENT MODULE-PROC DECL UNKNOWN FUNCTION) (REAL 8 0 0
+REAL ()) 29 0 (30 31) () 28 () () () 0 0)
+32 'modcrosssection' 'modcrosssection' 'modcrosssection' 1 ((MODULE
+UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN) (UNKNOWN 0 0 0 UNKNOWN ())
+0 0 () () 0 () () () 0 0)
+30 'yrnd' '' 'yrnd' 29 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN DIMENSION DUMMY) (REAL 8 0 0 REAL ()) 0 0 () (1 EXPLICIT (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '7')) 0 () () () 0 0)
+31 'vgswgt' '' 'vgswgt' 29 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN DUMMY) (REAL 8 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+13 'genevt' '' 'genevt' 11 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN DUMMY) (LOGICAL 4 0 0 LOGICAL ()) 0 0 () () 0 () () () 0
+0)
+12 'yrnd' '' 'yrnd' 11 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN DIMENSION DUMMY) (REAL 8 0 0 REAL ()) 0 0 () (1 ASSUMED_SHAPE (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') ()) 0 () () () 0 0)
+14 'res' '' 'res' 11 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN DIMENSION DUMMY) (REAL 8 0 0 REAL ()) 0 0 () (2 EXPLICIT (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '-5') (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '5') (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '-5') (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '5')) 0 () () () 0 0)
+26 'yrnd' '' 'yrnd' 25 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN DIMENSION DUMMY) (REAL 8 0 0 REAL ()) 0 0 () (1 EXPLICIT (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '22')) 0 () () () 0 0)
+27 'vgswgt' '' 'vgswgt' 25 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN DUMMY) (REAL 8 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+4 'yrnd' '' 'yrnd' 3 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN DIMENSION DUMMY) (REAL 8 0 0 REAL ()) 0 0 () (1 EXPLICIT (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '22')) 0 () () () 0 0)
+5 'genevt' '' 'genevt' 3 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN DUMMY) (LOGICAL 4 0 0 LOGICAL ()) 0 0 () () 0 () () () 0 0)
+6 'res' '' 'res' 3 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN DIMENSION DUMMY) (REAL 8 0 0 REAL ()) 0 0 () (2 EXPLICIT (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '-5') (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '5') (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '-5') (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '5')) 0 () () () 0 0)
+9 'yrnd' '' 'yrnd' 8 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN DIMENSION DUMMY) (REAL 8 0 0 REAL ()) 0 0 () (1 EXPLICIT (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '22')) 0 () () () 0 0)
+17 'yrnd' '' 'yrnd' 16 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN DIMENSION DUMMY) (REAL 8 0 0 REAL ()) 0 0 () (1 EXPLICIT (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '22')) 0 () () () 0 0)
+18 'genevt' '' 'genevt' 16 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN DUMMY) (LOGICAL 4 0 0 LOGICAL ()) 0 0 () () 0 () () () 0
+0)
+19 'ehat' '' 'ehat' 16 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN DUMMY) (REAL 8 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+20 'res' '' 'res' 16 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN DUMMY) (REAL 8 0 0 REAL ()) 0 0 () () 0 () () () 0 0)
+21 'acceptedevent' '' 'acceptedevent' 16 ((VARIABLE UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN UNKNOWN DIMENSION DUMMY) (REAL 8 0 0 REAL ()) 0 0 ()
+(2 EXPLICIT (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') (CONSTANT (
+INTEGER 4 0 0 INTEGER ()) 0 '4') (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0
+'1') (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '4')) 0 () () () 0 0)
+22 'my_idup' '' 'my_idup' 16 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN DIMENSION DUMMY) (INTEGER 4 0 0 INTEGER ()) 0 0 () (1
+EXPLICIT (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER
+4 0 0 INTEGER ()) 0 '9')) 0 () () () 0 0)
+23 'icolup' '' 'icolup' 16 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN DIMENSION DUMMY) (INTEGER 4 0 0 INTEGER ()) 0 0 () (2
+EXPLICIT (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER
+4 0 0 INTEGER ()) 0 '2') (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '9')) 0 () () () 0 0)
+)
+
+('evalunweighted' 0 2 'evalunweighted_beta' 0 7 'evalunweighted_hjj' 0
+10 'evalunweighted_withoutproduction' 0 15 'evalweighted' 0 24
+'evalweighted_hjj' 0 28 'modcrosssection' 0 32)

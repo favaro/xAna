@@ -1,0 +1,51 @@
+GFORTRAN module version '0' created from mod_HiggsJJ.F90 on Mon May 19 18:06:31 2014
+MD5:80ad2819913228f6802044d55cdfef07 -- If you edit this, you'll get what you deserve.
+
+(() () () () () () () () () () () () () () () () () () () () () () ()
+() () () ())
+
+()
+
+()
+
+()
+
+()
+
+(2 'evalamp_sbfh_unsymm_sa' 'modhiggsjj' 'evalamp_sbfh_unsymm_sa' 1 ((
+PROCEDURE UNKNOWN-INTENT MODULE-PROC DECL UNKNOWN SUBROUTINE) (UNKNOWN 0
+0 0 UNKNOWN ()) 3 0 (4 5 6) () 0 () () () 0 0)
+7 'evalamp_wbfh_unsymm_sa' 'modhiggsjj' 'evalamp_wbfh_unsymm_sa' 1 ((
+PROCEDURE UNKNOWN-INTENT MODULE-PROC DECL UNKNOWN SUBROUTINE) (UNKNOWN 0
+0 0 UNKNOWN ()) 8 0 (9 10 11) () 0 () () () 0 0)
+4 'p' '' 'p' 3 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN DIMENSION
+DUMMY) (REAL 8 0 0 REAL ()) 0 0 () (2 EXPLICIT (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '4') (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '5')) 0 () () () 0 0)
+5 'ggcoupl' '' 'ggcoupl' 3 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN
+DIMENSION DUMMY) (COMPLEX 8 0 0 COMPLEX ()) 0 0 () (1 EXPLICIT (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '2') (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '4')) 0 () () () 0 0)
+6 'res' '' 'res' 3 ((VARIABLE OUT UNKNOWN-PROC UNKNOWN UNKNOWN DIMENSION
+DUMMY) (REAL 8 0 0 REAL ()) 0 0 () (2 EXPLICIT (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '-5') (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '5') (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '-5') (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '5')) 0 () () () 0 0)
+9 'p' '' 'p' 8 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN DIMENSION
+DUMMY) (REAL 8 0 0 REAL ()) 0 0 () (2 EXPLICIT (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '4') (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '5')) 0 () () () 0 0)
+10 'vvcoupl' '' 'vvcoupl' 8 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN
+DIMENSION DUMMY) (COMPLEX 8 0 0 COMPLEX ()) 0 0 () (1 EXPLICIT (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '4')) 0 () () () 0 0)
+11 'res' '' 'res' 8 ((VARIABLE OUT UNKNOWN-PROC UNKNOWN UNKNOWN
+DIMENSION DUMMY) (REAL 8 0 0 REAL ()) 0 0 () (2 EXPLICIT (CONSTANT (
+INTEGER 4 0 0 INTEGER ()) 0 '-5') (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0
+'5') (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '-5') (CONSTANT (INTEGER 4 0
+0 INTEGER ()) 0 '5')) 0 () () () 0 0)
+)
+
+('evalamp_sbfh_unsymm_sa' 0 2 'evalamp_wbfh_unsymm_sa' 0 7)

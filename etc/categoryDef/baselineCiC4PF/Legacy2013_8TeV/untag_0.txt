@@ -1,0 +1,5 @@
+3
+minphotonR9	min	0.94
+maxSCEta	max	1.479
+ptHoM	min	0.32
+

@@ -1,0 +1,4 @@
+3
+njetsTTH	min	5
+nBjets  	min	1
+diphotonMva	min    -0.2

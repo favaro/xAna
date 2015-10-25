@@ -1,0 +1,20 @@
+18
+untag	0	0
+untag	1	0
+untag	2	0
+untag	3	0
+untag	4	0
+untag	5	0
+untag	6	0
+untag	7	0
+tth     0       1
+vh      0       1
+vh      1       1
+vh      3       1
+vh      4       1
+vbf	0	1
+vbf	1	1
+tth     1       1
+vh      2       1
+vhhad   0       1
+

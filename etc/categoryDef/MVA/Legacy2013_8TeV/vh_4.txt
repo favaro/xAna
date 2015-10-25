@@ -1,0 +1,6 @@
+5
+nmuonVHDilep   min    2 
+njetsVH     	  max	 2
+diphotonMva	  min   -0.6
+mllVHDilep        min   70.0
+mllVHDilep        max   110.0

@@ -1,0 +1,7 @@
+4
+njets	min	2.0
+jetPt_lead	min	30.0
+jetPt_trail	min	20.0
+MJJ		min	250.0
+
+

@@ -1,0 +1,9 @@
+7
+njets	min	2.0
+jetPt_lead	min	30.0
+jetPt_trail	min	20.0
+DeltaEtaJJ	min	3.0
+Zeppenfeld	max	2.5
+MJJ		min	250.0
+DeltaPhiJJGG	min	2.6
+

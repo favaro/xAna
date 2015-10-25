@@ -1,0 +1,7 @@
+6
+njetsVHhad             min    2
+MJJVHhad               min    60
+MJJVHhad               max    120
+ptHoM                  min    1.0833
+cosThetaStarVHhad      min    0.0 
+cosThetaStarVHhad      max    0.5 
